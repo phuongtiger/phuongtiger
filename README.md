@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>My name's Phuong</h1>
+<h1>My full-name's Hoang Huy Phuong</h1>
 
 Here are some ideas to get you started:
 
