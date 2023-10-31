@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently study in FPT University
-- 🌱 I’m currently learning to become Software Engineer
+- 🔭 I’m currently studying at FPT University
+- 🌱 I’m currently learning to become a Software Engineer
 - 👯 I’m looking to collaborate on social media
 - 🤔 I’m looking for help with people around the world
 - 💬 Ask me about coding if you find me on social media
-- 📫 To reach me <a href="https://github.com/phuongtiger">Here</a>
-- 😄 I'm very happy you be here!
+- 📫 To reach me <a href="https://www.facebook.com/hoanghuy.phuong.12/">Here</a>
+- 😄 I'm very happy you are here!
 - ⚡ More Energy brooo!
