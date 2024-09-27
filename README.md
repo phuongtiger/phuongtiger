@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 To reach me <a href="https://www.facebook.com/hoanghuy.phuong.12/">Here</a>
 - 😄 I'm very happy you are here!
 - ⚡ More Energy brooo!
-sửa lại file introduce cho tôi trên github ấn tượng nhất
